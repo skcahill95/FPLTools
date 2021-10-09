@@ -33,5 +33,3 @@ def get_fpldata():
 
     return fpldata
 
-get_fixtures()
-get_fpldata()

@@ -17,3 +17,4 @@ def get_team_from_id(team_id):
     for team in teams:
         if team.get("id") == team_id:
             return team
+
